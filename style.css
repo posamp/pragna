@@ -1,0 +1,52 @@
+simg{
+  width:100px;
+}
+h1,h2{
+font-style: italic;
+}
+tadle,td,tr{
+  border:2px solid #000;
+  border-collapse: collapse;
+}
+.main{
+border:2px solid #000;
+display:flex;
+margin:5px;
+flex-wrap:wrap;
+
+}
+.right{
+  flex:2;
+border:2px solid #000;
+margin:5px;
+flex-wrap:wrap;
+}
+@media screen and (max-width:488px){
+.main{
+
+  border:2px solid #0000;
+  margin:5px;
+  display:flex;
+  flex-wrap:wrap;
+
+  }
+  .left{
+  background-color: pink;
+
+  border:2px solid #000;
+  margin:5px;
+  display:flex;
+  flex-wrap:wrap;
+
+  }
+  .right{
+  background-color: green;
+  border:2px solid #000;
+  margin:5px;
+  display:flex;
+  flex-wrap:wrap;
+  }
+
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+}

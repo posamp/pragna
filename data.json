@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "photo":"download.png",
+    "name":"pragna",
+    "phone":"99999999999",
+    "email":"pragnalatha96@gmail.com"
+  },
+    "skill":[
+  {
+    "name":"programming language",
+     "value":"c,c++,JAVA"
+   },
+   {
+     "name":"operating System",
+     "value":"Windows,Linux"
+   },
+   {
+     "name":"Web technologies",
+     "value":"html,css,javascript"
+   }
+ ],
+ "education":[
+{
+  "course":"B.Tech(Computer science and engineering)",
+  "college":[
+    "sri venkateshwara institude of technology",
+    "2015-2009",
+    "65%"
+  ]
+},
+{
+  "course":"Intermediate(M.P.C)",
+"college":[
+    "narayana junior college",
+    "2013-2015",
+    "75%"
+  ]
+},
+{
+  "course":"SSC",
+  "college":[
+    "keshava reddy concept school",
+    "2012-2013",
+    "65%"
+  ]
+}
+]
+}
